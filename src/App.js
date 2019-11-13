@@ -11,7 +11,7 @@ function App() {
              Clear Login
         </p>
         <form>
-             <p>Adresse electroonique</p>
+             <p>Adresse electronique</p>
              <input placeholder="example@lscmltd.com"></input>
              <p>Mot de passe</p>
              <input type="password"></input> <p></p>
